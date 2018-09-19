@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denys Tovstohan blog</title>
+    <link>http://localhost/</link>
+    <description>Recent content on Denys Tovstohan blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Denys Tovstohan</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First step to Future</title>
+      <link>http://localhost/posts/first-step/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/posts/first-step/</guid>
+      <description>Hello, World! It&amp;rsquo;s my first post about something. Maybe it&amp;rsquo;s the last one&amp;hellip; But I always glad to see you, my friend, that you find a minute to read this text.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/about/</guid>
+      <description>Just secret text.
+Thanks for reading!</description>
+    </item>
+    
+    <item>
+      <title>My contacts</title>
+      <link>http://localhost/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/contact/</guid>
+      <description>Feel free to contact with me.</description>
+    </item>
+    
+    <item>
+      <title>Projects where I was</title>
+      <link>http://localhost/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/projects/</guid>
+      <description>Many-many projects here</description>
+    </item>
+    
+  </channel>
+</rss>

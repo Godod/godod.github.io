@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on Denys Tovstohan blog</title>
+    <link>http://localhost/tags/first/</link>
+    <description>Recent content in First on Denys Tovstohan blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Denys Tovstohan</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First step to Future</title>
+      <link>http://localhost/posts/first-step/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/posts/first-step/</guid>
+      <description>Hello, World! It&amp;rsquo;s my first post about something. Maybe it&amp;rsquo;s the last one&amp;hellip; But I always glad to see you, my friend, that you find a minute to read this text.</description>
+    </item>
+    
+  </channel>
+</rss>

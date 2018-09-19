@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First on Денис Товстоган блог</title>
+    <link>http://localhost/ua/categories/first/</link>
+    <description>Recent content in First on Денис Товстоган блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Denys Tovstohan</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/ua/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Перший крок у майбутнє</title>
+      <link>http://localhost/ua/posts/first-step/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/ua/posts/first-step/</guid>
+      <description>Привіт, Всесвіт! Це мій перший пост про щось. А можливо і останній&amp;hellip; Але все одно я рад тебе привітати, мій друже, що знайшов хвилинку, щоб усю цю безглузду маячню прочитати.</description>
+    </item>
+    
+  </channel>
+</rss>

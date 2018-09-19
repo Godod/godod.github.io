@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Денис Товстоган блог</title>
+    <link>http://localhost/ua/</link>
+    <description>Recent content on Денис Товстоган блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Denys Tovstohan</copyright>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost/ua/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Перший крок у майбутнє</title>
+      <link>http://localhost/ua/posts/first-step/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/ua/posts/first-step/</guid>
+      <description>Привіт, Всесвіт! Це мій перший пост про щось. А можливо і останній&amp;hellip; Але все одно я рад тебе привітати, мій друже, що знайшов хвилинку, щоб усю цю безглузду маячню прочитати.</description>
+    </item>
+    
+    <item>
+      <title>Мої контакти</title>
+      <link>http://localhost/ua/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/ua/contact/</guid>
+      <description>Відчуй подих багатьох контактів.</description>
+    </item>
+    
+    <item>
+      <title>Про мене</title>
+      <link>http://localhost/ua/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/ua/about/</guid>
+      <description>Це просто текст.</description>
+    </item>
+    
+    <item>
+      <title>Усі мої проджекти</title>
+      <link>http://localhost/ua/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost/ua/projects/</guid>
+      <description>А їх багатенько&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
