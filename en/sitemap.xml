@@ -3,154 +3,154 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/posts/first-step/</loc>
+    <loc>https://godod.github.io/posts/first-step/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/posts/first-step/"
+                href="https://godod.github.io/ua/posts/first-step/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/posts/first-step/"
+                href="https://godod.github.io/posts/first-step/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/about/</loc>
+    <loc>https://godod.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/about/"
+                href="https://godod.github.io/ua/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/about/"
+                href="https://godod.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://godod.github.io/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/categories/"
+                href="https://godod.github.io/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/categories/"
+                href="https://godod.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="http://localhost/ua/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost/tags/first/</loc>
+    <loc>https://godod.github.io/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/tags/first/"
+                href="https://godod.github.io/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/tags/first/"
+                href="https://godod.github.io/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/categories/first/</loc>
+    <loc>https://godod.github.io/tags/first/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/categories/first/"
+                href="https://godod.github.io/ua/tags/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/categories/first/"
+                href="https://godod.github.io/tags/first/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="http://localhost/ua/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://godod.github.io/categories/first/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/posts/"
+                href="https://godod.github.io/ua/categories/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/posts/"
+                href="https://godod.github.io/categories/first/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/projects/</loc>
+    <loc>https://godod.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/projects/"
+                href="https://godod.github.io/ua/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/projects/"
+                href="https://godod.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://godod.github.io/posts/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="http://localhost/ua/tags/"
+                href="https://godod.github.io/ua/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/tags/"
+                href="https://godod.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/tags/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/tags/"
                 />
   </url>
   
