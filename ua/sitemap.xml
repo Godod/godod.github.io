@@ -33,22 +33,6 @@
   </url>
   
   <url>
-    <loc>https://godod.github.io/ua/tags/first/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godod.github.io/tags/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://godod.github.io/ua/tags/first/"
-                />
-  </url>
-  
-  <url>
     <loc>https://godod.github.io/ua/categories/first/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -61,6 +45,22 @@
                 rel="alternate"
                 hreflang="ua"
                 href="https://godod.github.io/ua/categories/first/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/ua/tags/first/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/tags/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/tags/first/"
                 />
   </url>
   
