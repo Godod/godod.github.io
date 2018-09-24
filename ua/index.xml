@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Denys Tovstohan</copyright>
-    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://godod.github.io/ua/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bitcoin cloud mining &#34;Sharedmining&#34;</title>
+      <link>https://godod.github.io/ua/projects/cloud-mining-sharedmining/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/ua/projects/cloud-mining-sharedmining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing system &#34;Filesonweb&#34;</title>
+      <link>https://godod.github.io/ua/projects/processing-filesonweb/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/ua/projects/processing-filesonweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook game &#34;Dreamlike Mix&#34;</title>
+      <link>https://godod.github.io/ua/projects/facebook-dreamlikemix/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/ua/projects/facebook-dreamlikemix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web based mobile game &#34;Generals&#34;</title>
+      <link>https://godod.github.io/ua/projects/web-mmo-generals/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/ua/projects/web-mmo-generals/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Перший крок у майбутнє</title>
@@ -40,15 +76,6 @@
       <description>Ну що, почнемо? Виріс я в Україні, ріс я в Україні, живу і працюю також Україні. Випадковість?
 Займаюсь розробкою сайтів ще з часів школи. Спочатку мене принудили розробляти сайт для конкурсу, але потім мені це дуже сподобалось. Так і почалась моя історія.
 Були і перереви, так як я вчився і не було часу займатися цим. Але в університеті я вже почав заробляти цим гроші. Спочатку робота така CTRL+C - CTRL+V і нічого більше.</description>
-    </item>
-    
-    <item>
-      <title>Усі мої проджекти</title>
-      <link>https://godod.github.io/ua/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://godod.github.io/ua/projects/</guid>
-      <description>А їх багатенько&amp;hellip;</description>
     </item>
     
   </channel>

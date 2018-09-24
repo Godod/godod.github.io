@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bug Finder blog</title>
+    <link>https://godod.github.io/projects/</link>
+    <description>Recent content in Projects on Bug Finder blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Denys Tovstohan</copyright>
+    <lastBuildDate>Sun, 23 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://godod.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bitcoin cloud mining &#34;Sharedmining&#34;</title>
+      <link>https://godod.github.io/projects/cloud-mining-sharedmining/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/projects/cloud-mining-sharedmining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Processing system &#34;Filesonweb&#34;</title>
+      <link>https://godod.github.io/projects/processing-filesonweb/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/projects/processing-filesonweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook game &#34;Dreamlike Mix&#34;</title>
+      <link>https://godod.github.io/projects/facebook-dreamlikemix/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/projects/facebook-dreamlikemix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web based mobile game &#34;Generals&#34;</title>
+      <link>https://godod.github.io/projects/web-mmo-generals/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://godod.github.io/projects/web-mmo-generals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

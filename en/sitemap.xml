@@ -3,6 +3,66 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://godod.github.io/projects/cloud-mining-sharedmining/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/projects/cloud-mining-sharedmining/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/projects/cloud-mining-sharedmining/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/projects/processing-filesonweb/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/projects/processing-filesonweb/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/projects/processing-filesonweb/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/projects/facebook-dreamlikemix/</loc>
+    <lastmod>2018-09-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/projects/facebook-dreamlikemix/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/projects/facebook-dreamlikemix/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/projects/web-mmo-generals/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/projects/web-mmo-generals/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/projects/web-mmo-generals/"
+                />
+  </url>
+  
+  <url>
     <loc>https://godod.github.io/posts/first-step/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -33,7 +93,7 @@
   
   <url>
     <loc>https://godod.github.io/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -63,22 +123,6 @@
   </url>
   
   <url>
-    <loc>https://godod.github.io/tags/first/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://godod.github.io/ua/tags/first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://godod.github.io/tags/first/"
-                />
-  </url>
-  
-  <url>
     <loc>https://godod.github.io/categories/first/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -91,6 +135,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://godod.github.io/categories/first/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://godod.github.io/tags/first/</loc>
+    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://godod.github.io/ua/tags/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://godod.github.io/tags/first/"
                 />
   </url>
   
@@ -126,6 +186,8 @@
   
   <url>
     <loc>https://godod.github.io/projects/</loc>
+    <lastmod>2018-09-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
