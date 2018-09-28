@@ -18,7 +18,7 @@
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/projects/cloud-mining-sharedmining/</guid>
-      <description></description>
+      <description> Responsibilities:  Creating REST API based on Falcon framework. Creating frontend via Angular 2+. Support site and implement new features.  Technologies:  Python 3.6 Falcon MySQL Redis Angular 2+  </description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/projects/processing-filesonweb/</guid>
-      <description></description>
+      <description> Responsibilities:  Creating a new site based on Django 1 (frontend, backend, unit tests, CI) Working with PayPal, Stripe and other processing systems.  Technologies:  Python 3.5 Django PostgreSQL Redis RabbitMQ Celery  </description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/projects/facebook-dreamlikemix/</guid>
-      <description></description>
+      <description> Responsibilities:  Support legacy code and implement new features. Assistance with creating a new core based on Phalcon 1.  Technologies:  Php5 Phalcon 1 MySQL Redis  </description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/projects/web-mmo-generals/</guid>
-      <description></description>
+      <description> Responsibilities:  Support legacy code and implement new features. Creating new core via Phalcon 1. Implement CI via Hudson.  Technologies:  Php5 Phalcon 1 Couchbase Hudson Redis  </description>
     </item>
     
     <item>

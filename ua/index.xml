@@ -18,7 +18,7 @@
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/ua/projects/cloud-mining-sharedmining/</guid>
-      <description></description>
+      <description> Обов&amp;rsquo;язки:  Розробка REST API на базі фрейморвка Falcon. Розробка frontend&amp;rsquo;а на базі Angular 2+. Підтримка та вдосконалення сайта.  Використані технології:  Python 3.6 Falcon MySQL Redis Angular 2+  </description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/ua/projects/processing-filesonweb/</guid>
-      <description></description>
+      <description> Обов&amp;rsquo;язки:  Розробка сайта на базі Django 1 (frontend, backend, unit tests, розгортання на сервері і т.д.) Робота с PayPal, Stripe та з іншими процесінговими системами.  Використані технології:  Python 3.5 Django PostgreSQL Redis RabbitMQ Celery  </description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/ua/projects/facebook-dreamlikemix/</guid>
-      <description></description>
+      <description> Обов&amp;rsquo;язки:  Підтримка кодової бази та додавання нового функціоналу. Допомога в розробці нового ядра на базі Phalcon 1.  Використані технології:  Php5 Phalcon 1 MySQL Redis  </description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://godod.github.io/ua/projects/web-mmo-generals/</guid>
-      <description></description>
+      <description> Обов&amp;rsquo;язки:  Підтримка кодової бази та додавання нового функціоналу Розробка нового ядра за допомогою Phalcon 1. Розгортання та налаштування CI на базі Hudson.  Використані технології:  Php5 Phalcon 1 Couchbase Hudson Redis  </description>
     </item>
     
     <item>
